@@ -1,10 +1,10 @@
 # Portfolio
-## O mnie
-Jestem absolwentem kierunku Bezpieczeństwo i Higiena Pracy. Podczas praktyk studenckich nauczyłem się, jak ważne jest zarządzanie czasem oraz komunikacja z zespołem. Nabyłem umiejętności zarządzania dokumentacją, rozwiązywania problemów oraz analizy danych i wyciągania wniosków z dostępnych informacji. 
+## About Me
+I am a graduate in Occupational Health and Safety. During my student internships, I learned the importance of time management and team communication. I acquired skills in document management, problem-solving, data analysis, and drawing conclusions from available information.
 
-Posiadam solidne podstawy w obszarze testowania manualnego, zdobyte poprzez kursy online, webinary, blogi, kanały na YouTube oraz grupy na Facebooku. W ramach samodoskonalenia testowałem popularne witryny internetowe i tworzyłem przypadki testowe, które gromadziłem przy użyciu TestLink i Xray, a następnie raportowałem przebieg pracy w Jira. Tworzyłem również testy REST API w Postmanie oraz testy E2E przy użyciu JavaScript i Cypress. Dodatkowo, zdobyłem wiedzę na temat narzędzi takich jak Docker i Jenkins.
+I have a solid foundation in manual testing, gained through online courses, webinars, blogs, YouTube channels, and Facebook groups. As part of my self-improvement, I tested popular websites and created test cases, which I managed using TestLink and Xray, and reported progress in Jira. I also created REST API tests in Postman and end-to-end (E2E) tests using JavaScript and Cypress. Additionally, I gained knowledge about tools such as Docker and Jenkins.
 
-Jestem osobą dokładną, analityczną i zdeterminowaną do ciągłego doskonalenia swoich umiejętności. Nauka w sztuce testowania oprogramowania sprawia mi wiele radości.
+I am a meticulous, analytical, and determined person, constantly striving to improve my skills. Learning the art of software testing brings me great joy.
 
 ## Projects
 
