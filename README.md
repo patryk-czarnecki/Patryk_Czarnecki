@@ -14,7 +14,7 @@ Manual testing of the e-commerce website [https://skleptest.pl/](https://sklepte
 ### [Project 2: Automated Testing - Cypress](https://github.com/patryk-czarnecki/Project-2-Automated-Testing---Cypress)
 Automation of tests for an e-commerce application using Cypress.
 
-### [Project 3: API Testing]([Project3-API](https://github.com/patryk-czarnecki/Project3-APITesting))
+### [Project 3: API Testing](https://github.com/patryk-czarnecki/Project3-APITesting)
 API testing using Postman and JMeter.
 
 ## Courses
