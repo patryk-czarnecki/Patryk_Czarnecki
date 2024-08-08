@@ -58,12 +58,12 @@ API testing using Postman and JMeter.
 * Tworzenie przypadków testowych
 * Markdown 
 
-## Test Gallupa
-1. Zgodność
-2. Analityk
-3. Zbieranie
-4. Bezstronność
-5. Dyscyplina
+## Gallup Test
+1. Compliance
+2. Analyst
+3. Gathering
+4. Impartiality
+5. Discipline
 
 ## Books
 * [testowanieoprogramowania](https://ksiazka.testowanieoprogramowania.pl/od-czego-zaczac)
