@@ -29,7 +29,7 @@ API testing using Postman and JMeter.
 * [Chrome DevTools: Od podstaw do Eksperta](https://www.udemy.com/course/chrome-devtools-od-podstaw-do-eksperta)
 * [Docker: Praktyczny kurs od Podstaw](https://www.udemy.com/course/docker-praktyczny-kurs-od-podstaw)
 
-## Narzędzia
+## Tools
 * Jira
 * Trello
 * Xray
@@ -48,6 +48,7 @@ API testing using Postman and JMeter.
 * Xampp
 * PicPick
 * ShareX
+* MySQL Workbench
 
 ## Tech skills
 * JavaScript
