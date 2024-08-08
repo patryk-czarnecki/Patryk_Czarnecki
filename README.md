@@ -74,7 +74,7 @@ API testing using Postman and JMeter.
 5. Discipline
 
 ## Books
-* [testowanieoprogramowania](https://ksiazka.testowanieoprogramowania.pl/od-czego-zaczac)
+* [Testowanie Oprogramowania - Piotr Wicherski](https://ksiazka.testowanieoprogramowania.pl/od-czego-zaczac)
 * [Zawód tester - Radosław Smilgin](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
 * [Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp](https://lubimyczytac.pl/ksiazka/4943677/certyfikowany-tester-istqb-poziom-podstawowy)
 
