@@ -18,16 +18,16 @@ Automation of tests for an e-commerce application using Cypress.
 API testing using Postman and JMeter.
 
 ## Courses
-* [Kurs SQL od podstaw | MySQL](https://www.udemy.com/course/kurs-sql-od-podstaw/learn/lecture/32616264#overview)
-* [Testowanie Oprogramowania w praktyce | Bootcamp](https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp/learn/lecture/39536768#overview)
-* [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/learn/lecture/28938372#overview)
-* [Kurs Jira od podstaw - zarządzanie projektami](https://www.udemy.com/course/kurs-jira-od-podstaw-zarzadzanie-projektami/learn/lecture/31736312#overview)
-* [ChatGPT w testowaniu oprogramowania](https://www.udemy.com/course/chatgpt-w-testowaniu-oprogramowania/learn/practice/1511138#overview)
-* [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/learn/lecture/30197610#overview)
-* [Pytania i odpowiedzi rekrutacyjne dla testera](https://www.udemy.com/course/pytania-i-odpowiedzi-rekrutacyjne-dla-testera/learn/lecture/37263292#overview)
-* [Cypress od podstaw - Automatyzacja testów](https://www.udemy.com/course/cypress-od-podstaw/learn/lecture/31448390#overview)
-* [Chrome DevTools: Od podstaw do Eksperta](https://www.udemy.com/course/chrome-devtools-od-podstaw-do-eksperta/learn/lecture/41579134#overview)
-* [Docker: Praktyczny kurs od Podstaw](https://www.udemy.com/course/docker-praktyczny-kurs-od-podstaw/learn/lecture/42011146#overview)
+* [Kurs SQL od podstaw | MySQL](https://www.udemy.com/course/kurs-sql-od-podstaw)
+* [Testowanie Oprogramowania w praktyce | Bootcamp](https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp)
+* [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania)
+* [Kurs Jira od podstaw - zarządzanie projektami](https://www.udemy.com/course/kurs-jira-od-podstaw-zarzadzanie-projektami)
+* [ChatGPT w testowaniu oprogramowania](https://www.udemy.com/course/chatgpt-w-testowaniu-oprogramowania)
+* [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api)
+* [Pytania i odpowiedzi rekrutacyjne dla testera](https://www.udemy.com/course/pytania-i-odpowiedzi-rekrutacyjne-dla-testera)
+* [Cypress od podstaw - Automatyzacja testów](https://www.udemy.com/course/cypress-od-podstaw)
+* [Chrome DevTools: Od podstaw do Eksperta](https://www.udemy.com/course/chrome-devtools-od-podstaw-do-eksperta)
+* [Docker: Praktyczny kurs od Podstaw](https://www.udemy.com/course/docker-praktyczny-kurs-od-podstaw)
 
 ## Narzędzia
 * Jira
