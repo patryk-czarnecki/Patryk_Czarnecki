@@ -1,4 +1,4 @@
-# # portfolio
+# Portfolio
 ## O mnie
 Jestem absolwentem kierunku Bezpieczeństwo i Higiena Pracy. Podczas praktyk studenckich nauczyłem się, jak ważne jest zarządzanie czasem oraz komunikacja z zespołem. Nabyłem umiejętności zarządzania dokumentacją, rozwiązywania problemów oraz analizy danych i wyciągania wniosków z dostępnych informacji. 
 
