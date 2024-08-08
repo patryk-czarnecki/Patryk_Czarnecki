@@ -18,16 +18,16 @@ Automation of tests for an e-commerce application using Cypress.
 API testing using Postman and JMeter.
 
 ## Courses
-* [Kurs SQL od podstaw | MySQL](https://www.udemy.com/course/kurs-sql-od-podstaw)
-* [Testowanie Oprogramowania w praktyce | Bootcamp](https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp)
-* [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania)
-* [Kurs Jira od podstaw - zarządzanie projektami](https://www.udemy.com/course/kurs-jira-od-podstaw-zarzadzanie-projektami)
-* [ChatGPT w testowaniu oprogramowania](https://www.udemy.com/course/chatgpt-w-testowaniu-oprogramowania)
-* [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api)
-* [Pytania i odpowiedzi rekrutacyjne dla testera](https://www.udemy.com/course/pytania-i-odpowiedzi-rekrutacyjne-dla-testera)
-* [Cypress od podstaw - Automatyzacja testów](https://www.udemy.com/course/cypress-od-podstaw)
-* [Chrome DevTools: Od podstaw do Eksperta](https://www.udemy.com/course/chrome-devtools-od-podstaw-do-eksperta)
-* [Docker: Praktyczny kurs od Podstaw](https://www.udemy.com/course/docker-praktyczny-kurs-od-podstaw)
+* [SQL Course from Scratch | MySQL](https://www.udemy.com/course/kurs-sql-od-podstaw)
+* [Software Testing in Practice | Bootcamp](https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp)
+* [Practical Software Testing Course](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania)
+* [Jira Course from Scratch - Project Management](https://www.udemy.com/course/kurs-jira-od-podstaw-zarzadzanie-projektami)
+* [ChatGPT in Software Testing](https://www.udemy.com/course/chatgpt-w-testowaniu-oprogramowania)
+* [Postman from Scratch - REST API Testing](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api)
+* [Interview Questions and Answers for Testers](https://www.udemy.com/course/pytania-i-odpowiedzi-rekrutacyjne-dla-testera)
+* [Cypress from Scratch - Test Automation](https://www.udemy.com/course/cypress-od-podstaw)
+* [Chrome DevTools: From Basics to Expert](https://www.udemy.com/course/chrome-devtools-od-podstaw-do-eksperta)
+* [Docker: Practical Course from Scratch](https://www.udemy.com/course/docker-praktyczny-kurs-od-podstaw)
 
 ## Tools
 * Jira
@@ -85,7 +85,7 @@ API testing using Postman and JMeter.
 * [Wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 
 ## Webinary
-* Testy dostępności i standard WCAG 2.2 
-* Testowanie REST API dla początkujących
-* AI w testowaniu oprogramowania: Przyszłość testowania
-* Testy wydajnościowe - coraz bardziej niezbędna umiejętność testera oprogramowania
+* Accessibility Testing and WCAG 2.2 Standard
+* REST API Testing for Beginners
+* AI in Software Testing: The Future of Testing
+* Performance Testing - An Increasingly Essential Skill for Software Testers
