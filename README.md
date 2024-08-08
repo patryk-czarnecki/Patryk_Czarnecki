@@ -55,8 +55,8 @@ API testing using Postman and JMeter.
 * Rest API testing
 * SQL (MySQL)
 * HTML, CSS, JSON, Xpath
-* Raportowanie błedów
-* Tworzenie przypadków testowych
+* Bug Reporting
+* Test Case Creation
 * Markdown 
 
 ## Gallup Test
