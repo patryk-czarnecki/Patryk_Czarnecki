@@ -29,35 +29,42 @@ API testing using Postman and JMeter.
 * [Chrome DevTools: From Basics to Expert](https://www.udemy.com/course/chrome-devtools-od-podstaw-do-eksperta)
 * [Docker: Practical Course from Scratch](https://www.udemy.com/course/docker-praktyczny-kurs-od-podstaw)
 
-## Tools
+## Technical Skills
+
+### Testing Tools
 * Jira
 * Trello
 * Xray
 * TestLink
-* Git
-* Github
-* Github Actions
-* Docker
-* Jenkins
-* Visual Studio Code
 * Postman
 * Newman
-* Jmeter
+* JMeter
 * Cypress
 * DevTools
+### Version Control and CI/CD
+* Git
+* GitHub
+* GitHub Actions
+* Jenkins
+### Development Tools
+* Visual Studio Code
 * Xampp
-* PicPick
-* ShareX
+* Docker
 * MySQL Workbench
-
-## Tech skills
+### Programming and Scripting Languages
 * JavaScript
-* Rest API testing
 * SQL (MySQL)
-* HTML, CSS, JSON, Xpath
+* HTML, CSS, JSON, XPath
+### Reporting and Documentation
 * Bug Reporting
 * Test Case Creation
-* Markdown 
+* Markdown
+### Miscellaneous Tools
+* PicPick
+* ShareX
+### Specialized Testing
+* REST API Testing
+* Performance Testing
 
 ## Gallup Test
 1. Compliance
