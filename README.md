@@ -31,6 +31,11 @@ API testing using Postman and JMeter.
 
 ## Technical Skills
 
+### Programming and Scripting Languages
+* JavaScript
+* SQL (MySQL)
+* HTML, CSS, JSON, XPath
+
 ### Testing Tools
 * Cypress
 * Postman
@@ -40,22 +45,15 @@ API testing using Postman and JMeter.
 * Xray
 * DevTools
 
+### Specialized Testing
+* REST API Testing
+* Performance Testing
+
 ### Version Control and CI/CD
 * Git
 * GitHub
 * GitHub Actions
 * Jenkins
-
-### Development Tools
-* Visual Studio Code
-* Docker
-* MySQL Workbench
-* Xampp
-
-### Programming and Scripting Languages
-* JavaScript
-* SQL (MySQL)
-* HTML, CSS, JSON, XPath
 
 ### Reporting and Documentation
 * Jira
@@ -64,13 +62,15 @@ API testing using Postman and JMeter.
 * Trello
 * Markdown
 
+### Development Tools
+* Visual Studio Code
+* Docker
+* MySQL Workbench
+* Xampp
+
 ### Miscellaneous Tools
 * PicPick
 * ShareX
-
-### Specialized Testing
-* REST API Testing
-* Performance Testing
 
 ## Gallup Test
 1. Compliance
