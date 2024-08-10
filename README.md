@@ -9,7 +9,7 @@ I am a meticulous, analytical, and determined person, constantly striving to imp
 ## Projects
 
 ### [Project 1: Manual Testing](https://github.com/patryk-czarnecki/Project1-Manual-Testing)
-Manual testing of the e-commerce website [https://skleptest.pl/](https://skleptest.pl/), focusing on registration, login, and product browsing functionalities.
+Manual testing of the e-commerce website [https://skleptest.pl/](https://skleptest.pl/), focusing on registration, login, product browsing and cart functionalities.
 
 ### [Project 2: Automated Testing - Cypress](https://github.com/patryk-czarnecki/Project-2-Automated-Testing---Cypress)
 Automation of tests for an e-commerce application using Cypress.
@@ -32,36 +32,42 @@ API testing using Postman and JMeter.
 ## Technical Skills
 
 ### Testing Tools
-* Jira
-* Trello
-* Xray
-* TestLink
+* Cypress
 * Postman
 * Newman
 * JMeter
-* Cypress
+* TestLink
+* Xray
 * DevTools
+
 ### Version Control and CI/CD
 * Git
 * GitHub
 * GitHub Actions
 * Jenkins
+
 ### Development Tools
 * Visual Studio Code
-* Xampp
 * Docker
 * MySQL Workbench
+* Xampp
+
 ### Programming and Scripting Languages
 * JavaScript
 * SQL (MySQL)
 * HTML, CSS, JSON, XPath
+
 ### Reporting and Documentation
+* Jira
 * Bug Reporting
 * Test Case Creation
+* Trello
 * Markdown
+
 ### Miscellaneous Tools
 * PicPick
 * ShareX
+
 ### Specialized Testing
 * REST API Testing
 * Performance Testing
